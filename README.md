@@ -35,8 +35,7 @@ For this project, you will use Bash scripting, PostgreSQL, and Git to create a n
 ### Users table
 ![Captura14](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/de307270-ec34-4f3a-9a11-a4c65a15d04b)
 
-
-
+#
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Freecodecamp](https://www.freecodecamp.org/)
 - Curse - [Number Guessing Game](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game)
