@@ -22,19 +22,15 @@ For this project, you will use Bash scripting, PostgreSQL, and Git to create a n
 
 # Screenshot
 
-### Elements Table
-![Captura1](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/361fb2d3-4d09-4fc0-b21b-76f971fc9a69)
+### Run Code
 
-### Elements Table
-![Captura2](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/9b8a87d4-7a2a-46a3-9cc6-a4c8b212fb3e)
+![Captura1](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/f8b7f866-2ac8-4564-8538-1b0dd0b91f80)
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/e0232662-043d-4480-913e-71c58ce5ccf3)
+![Captura5](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/eb4a8ef6-99f0-4548-b0e4-74eafe8d3dbb)
 
-### Properties Table
-![Captura4](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/0bd6045c-6d39-47f8-8617-11ce667e6956)
-
-### Run with Arguments
-![Captura7](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/db801ddd-ef22-433d-87d4-bf5d3f2bad55)
-![Captura8](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/0e6b3b6d-3e99-4e51-a62c-e8c5f4161034)
-![Captura9](https://github.com/AndresF-SanchezG/postgres-challenge4/assets/113924667/c32c6df6-2cfe-4b05-9bd2-fa479187f8b2)
+### Games table
+![Captura7](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/76113947-d4b0-4d4f-8e58-526bd119a56f)
+![Captura14](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/de307270-ec34-4f3a-9a11-a4c65a15d04b)
 
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
