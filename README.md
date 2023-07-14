@@ -31,8 +31,9 @@ For this project, you will use Bash scripting, PostgreSQL, and Git to create a n
 
 ### Games table
 ![Captura7](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/76113947-d4b0-4d4f-8e58-526bd119a56f)
-![Captura14](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/de307270-ec34-4f3a-9a11-a4c65a15d04b)
 
+### Users table
+![Captura14](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/de307270-ec34-4f3a-9a11-a4c65a15d04b)
 
 
 
