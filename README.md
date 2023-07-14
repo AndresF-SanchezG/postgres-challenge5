@@ -39,4 +39,4 @@ For this project, you will use Bash scripting, PostgreSQL, and Git to create a n
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Freecodecamp](https://www.freecodecamp.org/)
-- Curse - [Build a Periodic Table Database](https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database)
+- Curse - [Number Guessing Game](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game)
