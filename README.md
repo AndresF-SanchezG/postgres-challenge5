@@ -25,7 +25,6 @@ For this project, you will use Bash scripting, PostgreSQL, and Git to create a n
 ### Run Code
 
 ![Captura1](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/f8b7f866-2ac8-4564-8538-1b0dd0b91f80)
-![Captura2](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/e0232662-043d-4480-913e-71c58ce5ccf3)
 ![Captura5](https://github.com/AndresF-SanchezG/postgres-challenge5/assets/113924667/eb4a8ef6-99f0-4548-b0e4-74eafe8d3dbb)
 
 ### Games table
