@@ -1,25 +1,39 @@
 # Build a Number Guessing Game
 
-For this project, you will use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
+This code snippet is a PostgreSQL database dump in SQL format. It represents a series of SQL statements that, when executed in a PostgreSQL database, will recreate the database structure and populate it with sample data. Here's a breakdown of the code:
 
-# Targets
-- Create a number_guessing_game folder in the project folder for your program
-- Create number_guess.sh in your number_guessing_game folder and give it executable permissions
-- Your script should have a shebang at the top of the file that uses #!/bin/bash
-- Turn the number_guessing_game folder into a git repository
-- Your git repository should have at least five commits
-- Your script should randomly generate a number that users have to guess
-- When you run your script, you should prompt the user for a username with Enter your username:, and take a username as input. Your database should allow usernames that are 22 characters
-- If that username has been used before, it should print Welcome back, <username>! You have played <games_played> games, and your best game took <best_game> guesses., with <username> being a users name from the database, <games_played> being the total number of games that user has played, and <best_game> being the fewest number of guesses it took that user to win the game
-- If the username has not been used before, you should print Welcome, <username>! It looks like this is your first time here.
-- The next line printed should be Guess the secret number between 1 and 1000: and input from the user should be read
-- Until they guess the secret number, it should print It's lower than that, guess again: if the previous input was higher than the secret number, and It's higher than that, guess again: - - if the previous input was lower than the secret number. Asking for input each time until they input the secret number.
-- If anything other than an integer is input as a guess, it should print That is not an integer, guess again:
-- When the secret number is guessed, your script should print You guessed it in <number_of_guesses> tries. The secret number was <secret_number>. Nice job! and finish running
-- The message for the first commit should be Initial commit
-- The rest of the commit messages should start with fix:, feat:, refactor:, chore:, or test:
-- You should finish your project while on the main branch, your working tree should be clean, and you should not have any uncommitted changes
+Initial Setup:
 
+Various settings related to timeouts, encoding, and configurations are established.
+If it exists, the "number_guess" database is dropped.
+A new database named "number_guess" is created using "template0" as a template, with specified encoding and locale configurations.
+Connecting to the New Database:
+
+The script connects to the "number_guess" database for further operations.
+Table Creation:
+
+Two tables are created in the "public" schema: "games" and "users."
+Each table has specific columns to store information about games and users.
+Sequence Creation:
+
+Two sequences are created to generate primary key values for the "games" and "users" tables.
+Associating Sequences with Primary Keys:
+
+The previously created sequences are assigned as default value generators for the primary key columns in the "games" and "users" tables.
+Inserting Sample Data:
+
+Sample records are inserted into the "games" and "users" tables using INSERT INTO statements.
+Adjusting Sequence Values:
+
+The current values of the sequences are adjusted to match the last inserted records.
+Defining Constraints:
+
+Unique and primary key constraints are defined for columns in the "games" and "users" tables.
+A foreign key constraint is defined to maintain referential integrity between the "games" and "users" tables.
+Completion of Database Dump:
+
+The database dump process is completed.
+In summary, this code creates a PostgreSQL database named "number_guess" with two tables: "games" and "users." It inserts sample data into these tables and establishes constraints and relationships between them. The dump can be used to recreate the database structure and data in a PostgreSQL environment.
 # Screenshot
 
 ### Run Code
